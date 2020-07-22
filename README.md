@@ -30,7 +30,7 @@ I am a male University student, primarily a Web Designer, and an amazing coder w
 
 ## GitHub Stats
 
-![AstroCoding github stats](https://github-readme-stats.vercel.app/api?username=AstroCoding)
+![AstroCoding github stats](https://github-readme-stats.vercel.app/api?username=AstroCoding&show_icons=true&theme=dracula)
 
 ## Useful Links
 
