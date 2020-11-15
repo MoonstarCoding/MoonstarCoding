@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 
 # Mark Hutchison
 
-I am a male University student, primarily a Web Designer, and an amazing coder who has experience with coding in the following languages:
+I am a male (he/him) University student, with a lot of Web Developement Experience, and an amazing coder who has experience with coding in just some of the following languages:
 
 - HTML
 - SCSS, CSS
-- JavaScript, jQuery
+- JavaScript, jQuery, TypeScript
 - PHP
-- Python
-- C++
+- Python3
+- C++, C
 - Java
-- mySQL, SQLite
+- Assembly (NASM and RISC-V)
+- Bash Scripting
+- mySQL, SQLite, and MongoDB for Databasing
 
 ⚡ Fun fact: I was a part of the Skills Canada Web Design and Development competition and placed Bronze, so it is safe to say that you can trust me when I say I know what I am talking about. Feel free to ask me about the experience, because man do I have stories!
 
@@ -39,3 +41,9 @@ I am a male University student, primarily a Web Designer, and an amazing coder w
 - Proof of Competition: <https://www.hdsb.ca/our-board/Pages/News/News-Description.aspx?NewsID=657>
 
 - YouTube Channel: <https://www.youtube.com/user/Moonstar3698>
+
+## How to Reach me?
+
+If you need to contact me, feel free to use any method below:
+**Email:** 1waterloomark@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/mark-j-hutchison/
