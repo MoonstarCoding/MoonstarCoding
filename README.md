@@ -40,7 +40,7 @@ I am a male (he/him) University student, with a lot of Web Developement Experien
 
 - Proof of Competition: <https://www.hdsb.ca/our-board/Pages/News/News-Description.aspx?NewsID=657>
 
-- YouTube Channel: <https://www.youtube.com/user/Moonstar3698>
+- YouTube Channel: <https://www.youtube.com/c/MoonstarGaming>
 
 ## How to Reach me?
 
