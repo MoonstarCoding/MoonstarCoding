@@ -45,5 +45,7 @@ I am a male (he/him) University student, with a lot of Web Developement Experien
 ## How to Reach me?
 
 If you need to contact me, feel free to use any method below:
+
 **Email:** 1waterloomark@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/mark-j-hutchison/
