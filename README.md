@@ -22,6 +22,7 @@ I am a male (he/him) University student, with a lot of Web Developement Experien
 - JavaScript, jQuery, TypeScript
 - PHP
 - Python3
+- GoLang
 - C++, C
 - Java
 - Assembly (NASM and RISC-V)
