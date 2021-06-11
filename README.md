@@ -35,6 +35,10 @@ I am a male (he/him) University student, with a lot of Web Developement Experien
 
 ![AstroCoding github stats](https://github-readme-stats.vercel.app/api?username=AstroCoding&show_icons=true&theme=dracula)
 
+## Jazzmoon
+
+In high school, my friend [BowsiePup](https://github.com/BowsiePup) and I started (Jazzmoon)[https://github.com/Jazzmoon]. It was meant to be a small freelance company that did coding jobs and web development related tasks. However, since we lived in such a small town, business wasn't great. That being said, whenever we make anything together, we release it as (Jazzmoon)[https://github.com/Jazzmoon] since that identity is our identity as a team.
+
 ## Useful Links
 
 - GitHub Student Development Pack: <https://education.github.com/pack/offers>
