@@ -35,6 +35,10 @@ I am a male (he/him) University student, with a lot of Web Developement Experien
 
 ![AstroCoding github stats](https://github-readme-stats.vercel.app/api?username=AstroCoding&show_icons=true&theme=dracula)
 
+### Trophies
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=AstroCoding&theme=dracula" />
+
 ## Jazzmoon
 
 In high school, my friend [BowsiePup](https://github.com/BowsiePup) and I started [Jazzmoon](https://github.com/Jazzmoon). It was meant to be a small freelance company that did coding jobs and web development related tasks. However, since we lived in such a small town, business wasn't great. That being said, whenever we make anything together, we release it as [Jazzmoon](https://github.com/Jazzmoon) since that identity is our identity as a team.
@@ -49,8 +53,6 @@ In high school, my friend [BowsiePup](https://github.com/BowsiePup) and I starte
 
 ## How to Reach me?
 
-If you need to contact me, feel free to use any method below:
+If you need to contact me, feel free to visit my LinkedIn:
 
-**Email:** 1waterloomark@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/mark-j-hutchison/
+[![LinkedIn][LinkedIn]][https://www.linkedin.com/in/mark-j-hutchison/]
