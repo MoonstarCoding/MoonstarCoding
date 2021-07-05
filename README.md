@@ -45,7 +45,7 @@ If you need to contact me, feel free to visit my LinkedIn:
 <!-- Links -->
 [BowsiePup]: https://github.com/BowsiePup "Cameron Maclean (BowsiePup)"
 [GitHub-Stats]: https://github-readme-stats.vercel.app/api?username=AstroCoding&show_icons=true&theme=dracula
-[Jazzmoon-Org]: https://github.com/Jazzmoonc
+[Jazzmoon-Org]: https://github.com/Jazzmoon "Jazzmoon Organization"
 [LinkedIn-URL]: https://www.linkedin.com/in/mark-j-hutchison/
 
 <!-- Shields -->
