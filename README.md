@@ -12,7 +12,12 @@ I am a male (he/him) University student, with a lot of Web Developement Experien
 - Java
 - Assembly (NASM and RISC-V)
 - Bash Scripting
-- mySQL, SQLite, and MongoDB for Databasing
+- SQL and NoSQL Databasing
+  - MariaDB
+  - MongoDB
+  - Neo4J/Cypher
+  - PostgreSQL
+  - SQLite3
 
 ⚡ Fun fact: I was a part of the Skills Canada Web Design and Development competition and placed Bronze, so it is safe to say that you can trust me when I say I know what I am talking about. Feel free to ask me about the experience, because man do I have stories!
 
