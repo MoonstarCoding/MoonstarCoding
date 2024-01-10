@@ -4,7 +4,7 @@ Hi 👋 My name is Mark Hutchison
 Full-Stack Web Developer
 ------------------------
 
-I am a male (he/him) computer science alumni of McMaster University. I started Web Development in High School, and quickly fell in love with it. I honed my skills for 2 years, and then competed in the Skills Canada national competition for Web Design and Development on behalf of Ontario. After that, I spent four years studying computer science at McMaster University, where I learned more coding languages, web libraries and frameworks, algorithms, databasing, machine learning, and so much more. Now, I am in the workplace doing everything I can to put my knowledge to good use.
+I am a male (he/him) computer science alumnus of McMaster University. I started Web Development in High School, and quickly fell in love with it. I honed my skills for 2 years, and then competed in the Skills Canada national competition for Web Design and Development on behalf of Ontario. After that, I spent four years studying computer science at McMaster University, where I learned more coding languages, web libraries and frameworks, algorithms, databasing, machine learning, and so much more. Now, I am in the workplace doing everything I can to put my knowledge to good use.
 
 * 🌍  I'm based in Acton, Ontario, Canada
 * 🖥️  See my portfolio at [GitHub.io](http://moonstarcoding.github.io/)
