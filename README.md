@@ -8,7 +8,7 @@ I am a male (he/him) computer science alumnus of McMaster University. I started 
 
 * 🌍  I'm based in Acton, Ontario, Canada
 * 🖥️  See my portfolio at [GitHub.io](http://moonstarcoding.github.io/)
-* ✉️  You can contact me at [1waterloomark@gmail.com](mailto:1waterloomark@gmail.com)
+* ✉️  You can contact me via my GitHub contact email listed on my profile
 * 🚀  I'm currently working on [SawThat V2](http://github.com/jazzmoon/SawThat)
 * 🧠  I'm learning HTMX with GoLang Templates
 * ⚡  I am a lover of many Science Fiction Movies and TV Shows
